@@ -1,1 +1,57 @@
-theme: jekyll-theme-minimal
+# Site
+repository: cjshearer/cjshearer.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Cody Shearer
+title: Undergraduate Research Assistant
+email: cjshearer@live.com
+
+# Social links
+#twitter_username: facespics
+github_username:  cjshearer
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: cjshearer
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Cody and I'm a undergraduate studying <mark>computer science<mark/> and <mark>mathematics</mark> at UofSC. I'm also a <mark>research assistant</mark> at [AISys Labs](https://pooyanjamshidi.github.io/AISys/#shearer) studying applications of casual inference for transfer learning for systems performance.
+
+# Education Section
+# educaton_title: Education
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in ML and casual inference some of my other interests and hobbies are:
+   - Parkour
+   - Gaming 
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+darkmode: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
