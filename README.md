@@ -1,21 +1,4 @@
-# modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) [![Build Status](https://travis-ci.com/sproogen/modern-resume-theme.svg?branch=master)](https://travis-ci.com/sproogen/modern-resume-theme)
-
-*A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.*
-*Host your own resume on GitHub for **free!***
-
-Now includes **Dark Mode**
-
-[View Demo](https://sproogen.github.io/modern-resume-theme/)
-
-![img](screenshot.png)
-
-*Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/sproogen/modern-resume-theme/issues/new/choose) or feel free to send me an email to [sprog31@gmail.com](mailto:sprog31@gmail.com), I'm always happy to help.*
-
-*I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [buy me a coffee (buymeacoffee.com/vJ6HfLu)](https://buymeacoff.ee/vJ6HfLu).*
-
-*If you would like to see how I am using this then you can view my resume [here (jameswgrant.co.uk)](http://www.jameswgrant.co.uk/) and find the code [here (sproogen/jameswgrant)](https://github.com/sproogen/jameswgrant), hopefully this might help you.*
-
-You can view the project [roadmap here](https://github.com/sproogen/modern-resume-theme/projects/1).
+# Theme by [Sproogen](https://github.com/sproogen/modern-resume-theme)
 
 ## Installation & setup guide
 This template is designed to be hosted using GitHub pages and so that's what these instructions will cover. If you plan on hosting it seperately then there might be some extra steps that we wont cover.
@@ -116,25 +99,6 @@ A list of all your projects, each project will follow this format
 
 ##### assets/main.scss
 Add any css changes or additions you want to make here after the line `@import 'modern-resume-theme';`
-
-## Running locally
-
-Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
-
-1. Clone your resume repository locally *(if you haven't already)*
-2. `cd [your-repository-name]`
-3. `bundle install`
-4. `bundle exec jekyll serve`
-5. Open your browser to `http://localhost:4000`
-
-Any changes you make will automatically build and you will be able to see these by refreshing your browser.
-
-*Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/sproogen/modern-resume-theme. You can view our full guide to contributing [here](https://github.com/sproogen/modern-resume-theme/blob/master/CONTRIBUTING.md)
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 

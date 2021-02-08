@@ -10,7 +10,7 @@ email: cjshearer@live.com
 # website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -27,10 +27,10 @@ linkedin_username: cjshearer
 # googleplus_username: +jekyll
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: My Resumé
+#   icon: fas fa-file-pdf
+#   url: ./resume/resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,9 +44,22 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cody and I'm a undergraduate studying <mark>computer science<mark/> and <mark>mathematics</mark> at UofSC. I'm also a <mark>research assistant</mark> at [AISys Labs](https://pooyanjamshidi.github.io/AISys/#shearer) studying applications of casual inference for transfer learning for systems performance.
+  Hi, my name is Cody. I'm a undergraduate studying <mark>computer
+  science</mark> and <mark>mathematics</mark> at the University of South
+  Carolina. I'm also a research assistant at
+  [AISys Labs](https://pooyanjamshidi.github.io/AISys/#shearer) studying
+  applications of casual inference for transfer learning of systems performance.
+
+  **Languages:**
+  - Python, Java, C++, Matlab
+
+  **Front-end Technologies:**
+  - Vue, Vuetify, Vue-router, Vuex, jQuery, Cypress
+
+  **Misc. Technologies:**
+  - Anaconda, Docker, Make
 
 # Education Section
 # educaton_title: Education
@@ -61,9 +74,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in ML and casual inference some of my other interests and hobbies are:
-   - Parkour
-   - Gaming 
+  Alongside my interests in ML and casual inference, some of my hobbies include
+  parkour, gaming (including board games and DnD!) and carpentry.
 
 # Footer
 footer_show_references: true
